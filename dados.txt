@@ -1,9 +1,10 @@
 Dados do aluno
 
 -Primeiro Nome:
+-Data de nascimento:
 -Profissão:
 -Cidade:
--O que faz nas horas vaga:
+-Hobbies:
 -Feedback sobre o curso Qualidade de Software:
 -Feedback sobre a plataforma de estudo da EBAC:
 
